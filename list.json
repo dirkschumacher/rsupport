@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Romain François",
+    "patreonurl": "https://www.patreon.com/romainfrancois",
+    "packages": [
+      "Rcpp",
+      "dplyr",
+      "highlight",
+      "tie",
+      "rsciinema",
+      "css"
+    ]
+  },
+  {
+    "name": "Thomas Lin Pedersen",
+    "patreonurl": "https://www.patreon.com/thomasp85",
+    "packages": [
+      "patchwork",
+      "ggraph",
+      "tweenr",
+      "ggforce",
+      "lime",
+      "tidygraph"
+    ]
+  }
+]
